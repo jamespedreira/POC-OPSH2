@@ -1,0 +1,15 @@
+D:\Downloads\POC-OPSH-master\Token\Token\obj\Debug\netcoreapp2.1\Token.csprojAssemblyReference.cache
+D:\Downloads\POC-OPSH-master\Token\Token\obj\Debug\netcoreapp2.1\Token.csproj.CoreCompileInputs.cache
+D:\Downloads\POC-OPSH-master\Token\Token\obj\Debug\netcoreapp2.1\Token.RazorAssemblyInfo.cache
+D:\Downloads\POC-OPSH-master\Token\Token\obj\Debug\netcoreapp2.1\Token.RazorAssemblyInfo.cs
+D:\Downloads\POC-OPSH-master\Token\Token\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\Downloads\POC-OPSH-master\Token\Token\obj\Debug\netcoreapp2.1\Token.AssemblyInfoInputs.cache
+D:\Downloads\POC-OPSH-master\Token\Token\obj\Debug\netcoreapp2.1\Token.AssemblyInfo.cs
+D:\Downloads\POC-OPSH-master\Token\Token\bin\Debug\netcoreapp2.1\Token.deps.json
+D:\Downloads\POC-OPSH-master\Token\Token\bin\Debug\netcoreapp2.1\Token.runtimeconfig.json
+D:\Downloads\POC-OPSH-master\Token\Token\bin\Debug\netcoreapp2.1\Token.runtimeconfig.dev.json
+D:\Downloads\POC-OPSH-master\Token\Token\bin\Debug\netcoreapp2.1\Token.dll
+D:\Downloads\POC-OPSH-master\Token\Token\bin\Debug\netcoreapp2.1\Token.pdb
+D:\Downloads\POC-OPSH-master\Token\Token\obj\Debug\netcoreapp2.1\Token.RazorTargetAssemblyInfo.cache
+D:\Downloads\POC-OPSH-master\Token\Token\obj\Debug\netcoreapp2.1\Token.dll
+D:\Downloads\POC-OPSH-master\Token\Token\obj\Debug\netcoreapp2.1\Token.pdb

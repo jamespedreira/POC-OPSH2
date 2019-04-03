@@ -1,0 +1,28 @@
+D:\MAGIT\POC OPEN-Shift\Token\Token\obj\Debug\netcoreapp2.2\Token.csproj.CoreCompileInputs.cache
+D:\MAGIT\POC OPEN-Shift\Token\Token\obj\Debug\netcoreapp2.2\Token.AssemblyInfoInputs.cache
+D:\MAGIT\POC OPEN-Shift\Token\Token\obj\Debug\netcoreapp2.2\Token.AssemblyInfo.cs
+D:\MAGIT\POC OPEN-Shift\Token\Token\bin\Debug\netcoreapp2.2\Token.deps.json
+D:\MAGIT\POC OPEN-Shift\Token\Token\bin\Debug\netcoreapp2.2\Token.runtimeconfig.json
+D:\MAGIT\POC OPEN-Shift\Token\Token\bin\Debug\netcoreapp2.2\Token.runtimeconfig.dev.json
+D:\MAGIT\POC OPEN-Shift\Token\Token\bin\Debug\netcoreapp2.2\Token.dll
+D:\MAGIT\POC OPEN-Shift\Token\Token\bin\Debug\netcoreapp2.2\Token.pdb
+D:\MAGIT\POC OPEN-Shift\Token\Token\obj\Debug\netcoreapp2.2\Token.csprojAssemblyReference.cache
+D:\MAGIT\POC OPEN-Shift\Token\Token\obj\Debug\netcoreapp2.2\Token.RazorAssemblyInfo.cache
+D:\MAGIT\POC OPEN-Shift\Token\Token\obj\Debug\netcoreapp2.2\Token.RazorAssemblyInfo.cs
+D:\MAGIT\POC OPEN-Shift\Token\Token\obj\Debug\netcoreapp2.2\Token.RazorTargetAssemblyInfo.cache
+D:\MAGIT\POC OPEN-Shift\Token\Token\obj\Debug\netcoreapp2.2\Token.dll
+D:\MAGIT\POC OPEN-Shift\Token\Token\obj\Debug\netcoreapp2.2\Token.pdb
+D:\Downloads\POC-OPSH-master\Token\Token\bin\Debug\netcoreapp2.2\Token.deps.json
+D:\Downloads\POC-OPSH-master\Token\Token\bin\Debug\netcoreapp2.2\Token.runtimeconfig.json
+D:\Downloads\POC-OPSH-master\Token\Token\bin\Debug\netcoreapp2.2\Token.runtimeconfig.dev.json
+D:\Downloads\POC-OPSH-master\Token\Token\bin\Debug\netcoreapp2.2\Token.dll
+D:\Downloads\POC-OPSH-master\Token\Token\bin\Debug\netcoreapp2.2\Token.pdb
+D:\Downloads\POC-OPSH-master\Token\Token\obj\Debug\netcoreapp2.2\Token.csprojAssemblyReference.cache
+D:\Downloads\POC-OPSH-master\Token\Token\obj\Debug\netcoreapp2.2\Token.csproj.CoreCompileInputs.cache
+D:\Downloads\POC-OPSH-master\Token\Token\obj\Debug\netcoreapp2.2\Token.RazorAssemblyInfo.cache
+D:\Downloads\POC-OPSH-master\Token\Token\obj\Debug\netcoreapp2.2\Token.RazorAssemblyInfo.cs
+D:\Downloads\POC-OPSH-master\Token\Token\obj\Debug\netcoreapp2.2\Token.AssemblyInfoInputs.cache
+D:\Downloads\POC-OPSH-master\Token\Token\obj\Debug\netcoreapp2.2\Token.AssemblyInfo.cs
+D:\Downloads\POC-OPSH-master\Token\Token\obj\Debug\netcoreapp2.2\Token.RazorTargetAssemblyInfo.cache
+D:\Downloads\POC-OPSH-master\Token\Token\obj\Debug\netcoreapp2.2\Token.dll
+D:\Downloads\POC-OPSH-master\Token\Token\obj\Debug\netcoreapp2.2\Token.pdb
